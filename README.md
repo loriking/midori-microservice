@@ -1,4 +1,4 @@
-### :leaves: Midori microservice :leaves:
+## :leaves: Midori microservice :leaves:
 
 :rainbow: _The more you know_ :rainbow:
 
@@ -6,5 +6,5 @@
 Green is often used to symbolize growth, harmony, freshness, fertility and safety.
 It is also the most restful color for the human eye.
 
-## Purpose of the microservice
+### Purpose of the microservice
 TBD
